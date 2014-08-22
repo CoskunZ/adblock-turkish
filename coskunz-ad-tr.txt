@@ -25,6 +25,7 @@ milliyet.com.tr###fblikewithfriends
 milliyet.com.tr##.detayfirsat.detayfirsat3
 milliyet.com.tr##IFRAME[src="http://www.tripadvisor.com/WidgetEmbed-cdsdestnarrow?locationId=297974&lang=tr&partnerId=458D4BC0A4CF48008119D70D76085349&display=true"]
 ##IFRAME[src*="//www.facebook.com/plugins/likebox"]
+|https://ekstat.com/js/lib/xgemius*.js$domain=eksisozluk.com
 
 
 
