@@ -1,0 +1,21 @@
+[Adblock Plus 2.0]
+! Title: CoskunZ'nin listesi
+! Homepage: https://github.com/CoskunZ/adblock-turkish
+! Licence: http://www.gnu.org/copyleft/gpl.html
+!
+!
+!
+!
+!--------------- Liste Baþý ---------------
+||google-analytics.com^
+milliyet.com.tr##.share2
+hurriyet.com.tr##.widget300.hurFollow
+hurriyet.com.tr###contentDetailTopicSubscribersWidget
+hurriyet.com.tr###socialContentDetailTopTopicWidget
+hurriyet.com.tr##.hsw-topic-wrapper
+hurriyet.com.tr##.detailShare.shareBottom.clr
+hurriyet.com.tr###sosyalLoginfalse
+
+
+
+
