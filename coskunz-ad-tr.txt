@@ -26,6 +26,11 @@ milliyet.com.tr##.detayfirsat.detayfirsat3
 milliyet.com.tr##IFRAME[src="http://www.tripadvisor.com/WidgetEmbed-cdsdestnarrow?locationId=297974&lang=tr&partnerId=458D4BC0A4CF48008119D70D76085349&display=true"]
 ##IFRAME[src*="//www.facebook.com/plugins/likebox"]
 |https://ekstat.com/js/lib/xgemius*.js$domain=eksisozluk.com
+odatv.com###pageskin
+odatv.com###\5f __plus_0
+odatv.com##DIV[style="border:1px solid #bbb; background-color:#f6f6f6;padding:5px;margin-top:10px;margin-bottom:10px;"]
+odatv.com##DIV[style="border: 1px solid rgb(200, 200, 200); padding: 5px; width:450px; height: 25px; margin-bottom: 5px;"]
+odatv.com##DIV[style="margin-left:35px"]
 
 
 
