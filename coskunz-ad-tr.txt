@@ -15,7 +15,16 @@ hurriyet.com.tr###socialContentDetailTopTopicWidget
 hurriyet.com.tr##.hsw-topic-wrapper
 hurriyet.com.tr##.detailShare.shareBottom.clr
 hurriyet.com.tr###sosyalLoginfalse
-
+hurriyet.com.tr##.followHurriyet
+hurriyet.com.tr###UserTopicOffer
+hurriyet.com.tr##.toolBox.tbSos.clr
+milliyet.com.tr##.blogwidget
+milliyet.com.tr##.marcaFrst2
+milliyet.com.tr##A[href="http://www.milliyet.com.tr/oyundunyasi/"]
+milliyet.com.tr###fblikewithfriends
+milliyet.com.tr##.detayfirsat.detayfirsat3
+milliyet.com.tr##IFRAME[src="http://www.tripadvisor.com/WidgetEmbed-cdsdestnarrow?locationId=297974&lang=tr&partnerId=458D4BC0A4CF48008119D70D76085349&display=true"]
+##IFRAME[src*="//www.facebook.com/plugins/likebox"]
 
 
 
