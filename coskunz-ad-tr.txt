@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 6F0omAheQwkLdogqR7CTSw
+! Checksum: ahaOu5U9VPSzlijYnEKn+w
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -43,3 +43,35 @@ sozcu.com.tr##A[href="https://itunes.apple.com/tr/app/sozcu/id405952318?l=tr&mt=
 sozcu.com.tr###SosyalHolder
 sozcu.com.tr##DIV[style="float:right;"]
 sozcu.com.tr##.side-widget
+haberturk.com##.twitter
+haberturk.com###\5f __plus_0
+haberturk.com###socialBoxDiv
+ensonhaber.com##.twitterPageButton
+ensonhaber.com##.socialButton
+donanimhaber.com##.smtakip
+donanimhaber.com##.paylasim.share
+donanimhaber.com##A[style="margin:0 0 10px 0; display:inline-block;"][target="_blank"]
+||ad.donanimhaber.com^
+||img.bolumsonucanavari.com^$third-party
+forum.donanimhaber.com##TR[bgcolor="#FFFFFF"]
+forum.donanimhaber.com##.facebook
+forum.donanimhaber.com###AADHB_H
+sporx.com###followers
+sporx.com##DIV[style="margin-top: 10px;"]
+sporx.com##DIV[style="float:right; margin-right: 6px;"]
+radikal.com.tr##.social-area.clearfix.sc-news-top
+radikal.com.tr##.social-area.clearfix.sc-news-bottom
+stargazete.com##.bannerTop
+mackolik.com##.tweet-temp
+fanatik.com.tr##.datas
+zaman.com.tr##.newsDetailSocialMediaBox
+zaman.com.tr###socialNetworkBeta
+gazetevatan.com##.tools
+onedio.com##.common-horizontal.featured
+onedio.com##.common-box.common-box-300px.featured
+onedio.com##.social-controls.floating
+onedio.com##.facebook-like
+dailymotion.com##.sd_cookiespolicy.alert-info.pdg-lg.font-sm
+cumhuriyet.com.tr###share-bar
+##.addthis_toolbox.addthis_default_style.addthis_16x16_style
+##IFRAME[src*="http://www.booking.com/general.html?"]
