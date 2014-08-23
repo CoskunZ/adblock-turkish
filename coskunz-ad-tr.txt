@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: tOkpMbrr6TdVOePw/77kBw
+! Checksum: 2p0uMD5krNqWbpGy9FLf4A
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -150,3 +150,9 @@ spor.mynet.com##.searchWrapper.mrgt20
 ||virgul.com^$third-party
 http://*.imgsinemalar.com/*/feedback-button*.png
 spor.mynet.com##.socialUstMenu.clearfix
+haberler.com##.paylassagGnl.fr
+forum.shiftdelete.net##IFRAME[src="http://shiftdelete.net/api/hepsiburada"]
+forum.shiftdelete.net##A[onclick="_gaq.push(['_trackEvent', 'Outgoing', 'bit.ly', '/sdnreklam']);"]
+|http*://images.hepsiburada.net/assets/*$domain=shiftdelete.net
+http*://forum.donanimhaber.com/kelimereklam*
+forum.donanimhaber.com##.m-info.share
