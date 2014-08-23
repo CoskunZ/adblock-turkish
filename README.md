@@ -1,7 +1,7 @@
 adblock-turkish
 ===============
 
-CoskunZ'nin Türkçe engelleme listesi.
+CoskunZ'nin Türkçe istenmeyen içerik engelleme listesi.
 
 Hedefler
 ----------
