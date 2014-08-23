@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: ahaOu5U9VPSzlijYnEKn+w
+! Checksum: CCNijWehZ+EPpW2s+ZaiPw
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -75,3 +75,61 @@ dailymotion.com##.sd_cookiespolicy.alert-info.pdg-lg.font-sm
 cumhuriyet.com.tr###share-bar
 ##.addthis_toolbox.addthis_default_style.addthis_16x16_style
 ##IFRAME[src*="http://www.booking.com/general.html?"]
+shiftdelete.net##.main_content.social
+shiftdelete.net###widget_teknosa_magazin_10
+||partnersapi.bilio.com/External/*$third-party
+ntvspor.net##DIV[style="position:absolute;right:0px; top:26px"]
+ntvspor.net###sb-fbLikeBox
+ntvspor.net##.tioTrivia.lightblue.bottomRight.show
+ntvspor.net##.tioTrivia.lightblue.bottomRight.show.sticky
+ntvspor.net##DIV[style="margin-bottom: 10px; margin-left: 12px; float: left; width: 100%"]
+silikonvadisi.tv##.bannerS
+silikonvadisi.tv###headerTop
+silikonvadisi.tv##.floatRight
+alkislarlayasiyorum.com###indexVideo_reklam
+alkislarlayasiyorum.com###rek_display_1
+##.fb-share-btn.fr
+##.twitter.fl
+##.plusone.fl
+##.like.fl
+startv.com.tr##.twitterNew
+startv.com.tr##.freeContent.p10px
+##.fbLikeBox
+startv.com.tr###tweetBox
+startv.com.tr##.social-like.clearfix
+cnnturk.com###banner_new_cnnturkcom_anasayfa_674x120
+cnnturk.com##.follow-container
+cnnturk.com##.social-wrapper
+cnnturk.com##.right-social-wrapper
+cnnturk.com##.share-wrapper
+webrazzi.com##.medium-12.large-3.columns.social-container
+webrazzi.com##.topshare
+webrazzi.com##.topshare
+webrazzi.com###webrazzimailchimpwidget-2
+webrazzi.com###webrazzimailchimpwidget-3
+karnaval.com##.login_pointer
+karnaval.com##.banner.masthead
+karnaval.com###main_banner
+karnaval.com##.banner
+karnaval.com##.video_sharing
+karnaval.com##.banner.standard
+karnaval.com##.banner.wide
+iha.com.tr##.social
+iha.com.tr##.adv
+iha.com.tr##.advbox
+iha.com.tr##.socialbar.blue
+||tamindir.com/img/pageskin/*
+tamindir.com##.ortala.u_b_u
+###begen_kutusu
+tamindir.com##.f_r.editor_s
+frmtr.com###kayan_reklam_sol
+frmtr.com###kayan_reklam_sag
+frmtr.com###rklm
+||acunnstatic.cdn1.sadececdn.com/static/620x100/*
+##.fb_iframe_widget
+acunn.com##.social
+##.fb-like-box.fb_iframe_widget
+###twitter-widget-0
+##.social-holder
+##.social-networks
+##.social-box
