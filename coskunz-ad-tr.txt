@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 2p0uMD5krNqWbpGy9FLf4A
+! Checksum: qggnJi3/L/z+XORgDu05fA
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -25,6 +25,7 @@
 ##.twitter.fl
 ##IFRAME[src*="//www.facebook.com/plugins/likebox"]
 ##IFRAME[src*="http://www.booking.com/general.html?"]
+||facebook.com/connect/ping?*
 acunn.com##.social
 alkislarlayasiyorum.com###indexVideo_reklam
 alkislarlayasiyorum.com###rek_display_1
@@ -156,3 +157,20 @@ forum.shiftdelete.net##A[onclick="_gaq.push(['_trackEvent', 'Outgoing', 'bit.ly'
 |http*://images.hepsiburada.net/assets/*$domain=shiftdelete.net
 http*://forum.donanimhaber.com/kelimereklam*
 forum.donanimhaber.com##.m-info.share
+hurriyet.com.tr##.mahmureLink
+||fotogalerisayac.hurriyet.com.tr^
+|http://*urchin*.js
+|http*://*.hurriyet.com.tr/*TargetMapping.js*
+||hurriyet.api.sociaplus.com^
+hurriyet.com.tr##.gSocialBar
+gercekgundem.com##.art-extra
+milliyet.com.tr###Gad-22
+milliyet.com.tr###Gad-24
+||googletagservices.com^
+samanyoluhaber.com###yeni-haber-var
+##.__socialfooter
+haberturk.com###astroloji-carousel
+haberturk.com/widgetjs/adsZoneData.js
+haberturk.com/widgetjs/adsResimReklamData.js
+haberturk.com/widgetjs/PopupAnketData.js
+haberturk.com/scripts/popupanket.js?*
