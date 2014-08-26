@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: bow3oEUlbVUo+rdYSxetUA
+! Checksum: gUBdsp9BPqFu5OE6CbGv7A
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -182,3 +182,13 @@ milliyet.com.tr###advertorialMansetBig
 milliyet.com.tr###advertorialMansetLink1
 http://www.hurriyet.com.tr/p/2014/hurriyettv_430x350.png
 *hmapxy*.js
+|http://www.hurriyet.com.tr/_js/*fbbox*$domain=hurriyet.com.tr
+||apis.google.com/js/plusone.js$third-party
+fotogaleri.hurriyet.com.tr##IFRAME[src="http://www.hurriyet.com.tr/_includes/mahmureKelebek_Fotogaleri.html"]
+||s.mynet.com/adocean/*$domain=mynet.com
+mynet.com###anasayfam
+||s.mynet.com/nocache/hitmynet.js?*$domain=mynet.com
+||s.mynet.com/fbappdata/*$domain=mynet.com
+||s.mynet.com/global/ga-yeni.js?*$domain=mynet.com
+mynet.com###newLinkSharing_1
+mynet.com###newLinkSharing_2
