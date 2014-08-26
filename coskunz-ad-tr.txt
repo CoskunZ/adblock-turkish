@@ -192,3 +192,5 @@ mynet.com###anasayfam
 ||s.mynet.com/global/ga-yeni.js?*$domain=mynet.com
 mynet.com###newLinkSharing_1
 mynet.com###newLinkSharing_2
+mynet.com###\33 00x250body1.detailInlineBanner300
+mynet.com###fSocialMediaWrap
