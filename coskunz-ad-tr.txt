@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: gDBJQUrUZ54IxGcMG3/dzQ
+! Checksum: fC/ZQFg3uni1H5vL2Ck/eA
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -25,6 +25,7 @@
 ##.twitter.fl
 ##IFRAME[src*="//www.facebook.com/plugins/likebox"]
 ##IFRAME[src*="http://www.booking.com/general.html?"]
+##IFRAME[src*="http://www.tripadvisor.com/WidgetEmbed"]
 ||facebook.com/connect/ping?*
 acunn.com##.social
 alkislarlayasiyorum.com###indexVideo_reklam
@@ -203,3 +204,7 @@ gazetevatan.com###\5f middle_bigcontent2_center
 haberturk.com###favorilereEkleBtn
 haberturk.com###cbgbar
 haberturk.com###toolbar-switch
+milliyet.com.tr##.kariyernet
+milliyet.com.tr##IFRAME[src="http://www.milliyet.com.tr/universitelinin-sesi-300x150/"]
+milliyet.com.tr###Gad-48
+milliyet.com.tr###Gad-44
