@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: uqch9sbWKR7hqhxYFQ4jYw
+! Checksum: xHklaq15wlOp/3FTQLNzcg
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -212,3 +212,6 @@ haberturk.com##.ga-track[href*="smartadserver.com"]
 haberturk.com##.grid3-container
 mynet.com##.socialContain
 mynet.com##.yrtcGoster.bgGray
+||hurriyet.com.tr/ReadCountOfNews.aspx?
+|http*://*.hurriyet.com.tr/*/FlashDetect.js*
+cumhuriyet.com.tr###iliskili-haberler
