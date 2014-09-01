@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: oZ5QiFEoYTwNqn+jQlhmDg
+! Checksum: kExS3oR6LKsqhB6a6RJfFg
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -222,3 +222,20 @@ trthaber.com###siteneEkleSH
 trthaber.com##.fbshare-button
 trthaber.com##.rbKutu.sosyalKutu.mkTabs.ui-tabs.ui-widget.ui-widget-content.ui-corner-all
 trthaber.com##.timelinesoc
+sozcu.com.tr##._pubserver_div
+sozcu.com.tr##DIV[style="overflow: hidden; background-color: #f5f5f5; clear: both; width: 100%; max-width: 500px; height: auto; border: 1px dotted #c8c8c8; margin: 10px auto; position: relative;"]
+sozcu.com.tr##A.black-link[style="color:#F00;"]
+sozcu.com.tr##._pubserver_div
+##.faceBox
+##.paylasBox
+sabah.com.tr##.share
+gazetevatan.com##.fbtw
+gazetevatan.com##SPAN[style="margin-bottom:15px; display:block;"]
+gazetevatan.com##.hsharea
+gazetevatan.com##.adv728x90.news
+gazetevatan.com##.dtyad.fLeft\=
+tr.msn.com##DIV.linkedimg1
+ensonhaber.com##.main-user
+ensonhaber.com##DIV.mdl[style="width: 300px;margin-top: 10px;text-align: center;"]
+ensonhaber.com##DIV.ps[style="position: absolute; left: 54%; margin-left: 506px; top: 99px; width: 160px; height: 600px;"]
+fotogaleri.ntvmsnbc.com##DIV[style="font-size:11px; font-family:Arial; color:#666666; width:300px; height:250px; text-align:center; margin-top:20px; margin-bottom:10px;"]
