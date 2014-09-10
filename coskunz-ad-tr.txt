@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: LAL1Sk8Sj+bFpdTuR0v8Qw
+! Checksum: B/WVt1cp5Me9hi7tgJzB6A
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -247,3 +247,5 @@ milliyet.com.tr##.social
 milliyet.com.tr###Gad-34
 milliyet.com.tr##A[href="https://www.facebook.com/MilliyetMutfak"]
 milliyet.com.tr##.onedio
+##[href*="medyanetads.com"]
+hurriyet.com.tr##.socialMenu.fixed-top
