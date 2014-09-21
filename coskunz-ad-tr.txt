@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 5XUMZZ+PxclO8/KbjGUxsw
+! Checksum: s66yXGGl8q+aHYzkIf3qnw
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -272,3 +272,8 @@ bugun.com.tr##.ak_paylas_bar
 bugun.com.tr##.soc
 ##.sosyal
 medya365.com##.btn-social-wrapper
+hurriyettv.com##.bst-buttons
+hurriyettv.com###sp-fancybox-overlay
+hurriyettv.com##[class^="sp-fancybox"]
+mynet.com###socialMediaWrap2
+##[href*="smartadserver.com"]
