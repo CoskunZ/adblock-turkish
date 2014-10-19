@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: EOt979c4qhymLZSzS7cLUw
+! Checksum: RJfUoX1CzMIifyjkSMjiiQ
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -292,3 +292,4 @@ haber7.com##.topadvlink
 ensonhaber.com##A[title="Dikkat bankada paranız var!"]
 internethaber.com###tooplay_share_0_0
 internethaber.com##.embed_code
+mynet.com##.mobileAdBannerArea513x102
