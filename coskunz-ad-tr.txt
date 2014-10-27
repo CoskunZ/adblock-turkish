@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Ha1u0m6DBFkbGMnGWHbQ+g
+! Checksum: 1e2WGAtPkyRyLvHpgDwV1Q
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -303,5 +303,6 @@ uludagsozluk.com##.rklm01.rklm01logoa
 uludagsozluk.com##.reklamblur1
 uludagsozluk.com###reklamblurolayi
 uludagsozluk.com###fragmantekrarac
-http://www.uludagsozluk.com/theme/resy/*
+uludagsozluk.com##.rklm01.rklm01main.rklm01uzun
+||uludagsozluk.com/theme/resy/*
 ||videonuz.ensonhaber.com/saydir.php?*
