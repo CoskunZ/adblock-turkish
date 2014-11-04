@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: CcyO/7wey6IA2ki65O2D7w
+! Checksum: eqGv+SEtxvrpsjHC0iI+XQ
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -310,4 +310,7 @@ haberturk.com##.tavsiyeHaber
 hurriyet.com.tr###goToTop
 fatblocksatis.com^
 odatv.com##[alt="Odatv iphone ve android telefon uygulamaları"]
-milliyet.com.tr/*/ashx/GoogleBanner.ashx?*
+milliyet.com.tr/*/GoogleBanner.ashx?*
+||milliyet.com.tr/subs/fotogaleri_csuv.asp?*
+||secure.milliyet.com.tr/redirect/Default.aspx?*
+||milliyet.com.tr/D/j/MilliyetStats.js?*
