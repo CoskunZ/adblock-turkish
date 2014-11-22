@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: fVh77csYRaSnVyZBr+dIxQ
+! Checksum: UScLPbo8HR7VKUk2J4f/NA
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -321,4 +321,4 @@ hurriyet.com.tr/_js/clicks_hurriyet.js
 hurriyet.com.tr/_js/evam.js?*
 hurriyet.com.tr/_js/evam_hurriyet.js
 ntvmsnbc.com##.ntv-haber-3095
-||ca.cubecdn.net/js/loaders*
+||ca.cubecdn.net/js/loader*
