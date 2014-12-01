@@ -18,8 +18,6 @@ Kullanmak için aşağıdaki adresi süzgeç aboneliklerine ekleyin.
 
 https://raw.githubusercontent.com/CoskunZ/adblock-turkish/master/coskunz-ad-tr.txt
 
-abp:subscribe?location=https://raw.githubusercontent.com/CoskunZ/adblock-turkish/master/coskunz-ad-tr.txt&title=CoskunZ'nin Listesi
-
 
 
 [Adblock Edge](https://addons.mozilla.org/en-US/firefox/addon/adblock-edge/) ile kullanılması önerilir.
