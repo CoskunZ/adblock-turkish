@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: GlQ7HepPoUQ0iGNLDP8vtQ
+! Checksum: PXPYUpPqncl5saLlOUUp7Q
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -335,3 +335,5 @@ mynet.com##.modal-backdrop.fade.in
 mynet.com##.media-hover-left
 sozcu.com.tr###MHHolder
 milliyet.com.tr##.wrapper.opposingFloatControl
+||s.visilabs.com^
+|http://*Visilabs*.js
