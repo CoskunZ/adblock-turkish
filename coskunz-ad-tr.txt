@@ -339,3 +339,6 @@ milliyet.com.tr##.wrapper.opposingFloatControl
 |http://*Visilabs*.js
 ||segmentify.hurriyet.com.tr^
 pixenka.com^
+shiftdelete.net###adSelector
+###site_ad_300x250
+##.advertise-social-plugin
