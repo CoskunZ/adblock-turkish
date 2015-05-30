@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: HMWGMcic6EScXN6rPvQEZw
+! Checksum: 1IoFvzjZhOEl70jqcLQw5w
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -342,3 +342,41 @@ pixenka.com^
 shiftdelete.net###adSelector
 ###site_ad_300x250
 ##.advertise-social-plugin
+shiftdelete.net##.widget.gittigidiyor_firsat_urunleri
+kelebekgaleri.hurriyet.com.tr##.galeriPaylasButtons
+spor.mynet.com###rightBottomNews
+mynet.com##.fix-share
+cnnturk.com##.news-test-wrapper.hidden-xs.ng-scope
+cnnturk.com##[ng-controller="NewsTestCtrl"]
+cnnturk.com##.banner-wrapper.haber-banner
+sabah.com.tr##.ilgi
+sabah.com.tr##.social.alt
+sabah.com.tr##.social
+sabah.com.tr##.banner
+milliyet.com.tr##.stickyin
+milliyet.com.tr##IMG[src="/d/i/skorer/twitimg.jpg"]
+milliyet.com.tr###tooplay_share_0_0
+milliyet.com.tr##.flt_left.rightb.bilgy
+srv.onedio.com^
+r10.net###uyelik
+r10.net###reklami
+|http://www.milliyet.com.tr/HtmlSource/r10Widget.html
+r10.net###reklam[align="center"]
+||cm.cdn.md/js5/Mackolik/Analytics.js
+sahadan.com###sg-popup
+forum.donanimhaber.com###tanitim-bgKapat
+forum.donanimhaber.com##.tanitim-yeniaramalabel
+forum.donanimhaber.com##.konulisteTextReklam
+haberturk.com##.bottom-layout.group.scrollbar-bottom-layout-fixed
+||coolshark.com^
+||gez.io^
+haberturk.com##.top-layout.scrollbar-top-layout-fixed
+ensonhaber.com##[src*="http://i.ensonhaber.com/resimler/diger/adv_"]
+ensonhaber.com##DIV[style="margin-right:15px;margin-top:15px;"]
+sporx.com##.sosyalag
+yenisafak.com.tr##.fancybox-overlay.fancybox-overlay-fixed
+||analytic.pho.fm^
+hurpass.com^
+||ad.ajanshaber.com^
+||stats.dogannet.tv^
+cumhuriyet.com.tr###headeresque
