@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: X8LfiMQ3doaAVkltv6SCFA
+! Checksum: R9G0yGZMq3jNSttQIxamkg
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -386,3 +386,82 @@ odatv.com##.socailfollow
 gazeteciler.com##.nc_share
 gazeteciler.com##.rBanner
 gazeteciler.com##A[style="color:#0068B8;font-size:15px;font-weight:bold;"]
+
+!for-uBlock-test
+
+odatv.com###printReady > div:nth-of-type(2)
+odatv.com###detay > div:nth-of-type(2)
+odatv.com###detay > div:nth-of-type(3)
+||www.facebook.com/plugins/like.php
+odatv.com###haberdetay > div:nth-of-type(3)
+odatv.com###detay > div:nth-of-type(3)
+odatv.com###detay > div:nth-of-type(2)
+odatv.com###detay > div:nth-of-type(4)
+odatv.com###detay > div:nth-of-type(4)
+odatv.com###detay > div:nth-of-type(5)
+||www.cumhuriyet.com.tr/css/images/comment-info.jpg
+www.sozcu.com.tr###reklam_sozcumain_300250
+www.halkhaber.tv###content > .show-detail > .col-main > .clear.show-content > .c-side > .share > ul
+www.zaman.com.tr###contentposition19 > div:nth-of-type(1) > .detayText > .detayUyari:nth-of-type(6)
+www.zaman.com.tr###contentposition19 > div:nth-of-type(1) > .detayText > .clearfix.share
+secim.ntv.com.tr##.social-media
+secim.ntv.com.tr##.gotop.img
+www.ntv.com.tr###story > .content > aside > div > .follow > .follow-us
+www.ntv.com.tr##header > .wrapper > .halkbank[href="http://www.ntv.com.tr/canli-yayin/ntv"]
+||www.ntv.com.tr/content/img/external/mitsubishi-logo.png
+||www.facebook.com/v2.0/plugins/share_button.php
+www.sozcu.com.tr##.not-print.kzgn-sozcu-header-wrapper > .kzgn-sozcu-new-header-hold > .kzgn-sozcu-new-header > .kzgn-social-media-wrapper
+www.sozcu.com.tr###sozcu-detay-sosyal-paylasim
+www.sozcu.com.tr###reklam_sozcumain_580120
+www.ensonhaber.com##li:nth-of-type(1)
+www.cnnturk.com###news-detail > .news-content-wrapper > .affix-top.hidden-sm.hidden-xs.share-list
+www.fanatik.com.tr##.fake_header > .header > .clearfix.container > .social_box
+www.radikal.com.tr###_top > .clearfix.container_24 > .grid_24 > .socila-header > .globalFolowButton
+www.frmtr.com##body > div:nth-of-type(5) > .page > div > .tborder:nth-of-type(2)
+||www.frmtr.com/images/r/ts728.jpg
+||www.frmtr.com/images/r/*.jpg
+www.ensonhaber.com##.util-item:nth-of-type(1)
+www.internethaber.com##.CM_pageskin_1 > .left > .banner_code > .eko_flags
+www.internethaber.com##.main_container > .clearfix.mansetSistem > .mSL > .mansetBIG > .manset_cont > .mnst_banners > .visibleElement > .mansetBnrShare
+www.internethaber.com###news_detail > .clearfix.sn
+www.gazeteci.tv###basadon
+www.aksam.com.tr###reklam_detay
+www.aksam.com.tr###print > div:nth-of-type(1)
+www.aksam.com.tr###print > div:nth-of-type(2)
+www.aksam.com.tr###print > div:nth-of-type(3)
+www.aksam.com.tr###print > ._pubserver_div
+www.aksam.com.tr###banner_top
+www.aksam.com.tr##header > .aksam_new_header > .aksam_new_header_nav > .aksam_new_header_nav_right
+www.aksam.com.tr###overlay > .content > .zoomed-in.transition-wrap > .story.clearfix.asset > .sosyal_butonlar
+www.bugun.com.tr###feed > div:nth-of-type(1) > div
+www.bugun.com.tr###detail > .pageBody > div:nth-of-type(1)
+www.bugun.com.tr###detail > .pageBody > .pageLeftCol > div:nth-of-type(4) > div:nth-of-type(1) > .socialContainer
+www.bugun.com.tr###detail > .pageBody > .pageLeftCol > .bodyContainer > div > .yazarArticleBody > div:nth-of-type(2)
+www.bugun.com.tr###detail > .pageBody > .pageLeftCol > div:nth-of-type(12) > div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(2)
+www.bugun.com.tr###detail > .pageBody > .pageLeftCol > div:nth-of-type(12) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2)
+www.bugun.com.tr###detail > .pageBody > .pageLeftCol > div:nth-of-type(12) > div:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(2)
+www.bugun.com.tr###detail > .pageBody > .pageLeftCol > div:nth-of-type(12) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2)
+||statik.bugun.com.tr/images/share.png
+www.birgun.net##.pageContainer > .clearfix.mainContent > .row > .col-4.fr.sideBar > .followUs.widget
+www.ortadogugazetesi.net##.wrapper > .header > .right.ads_468_60
+www.ortadogugazetesi.net###tasit-widget300
+www.ortadogugazetesi.net##.wrapper > .content > .reklam_ve_piyasalar
+www.ortadogugazetesi.net###tasitcom[href="http://www.tasit.com/"]
+www.star.com.tr##.header > div:nth-of-type(2) > .header > .navTop > .logoR2ww
+video.star.com.tr##.headerDet > .bannerTop
+www.sabah.com.tr##.advertControlArea > .sMedia > .media
+www.sabah.com.tr##.container > .globalShare
+www.taraf.com.tr###wp_social_popup_and_get_traffic
+www.taraf.com.tr###topcontrol
+www.taraf.com.tr##.counter
+www.cnbce.com###myNewsBox
+www.cine5.com.tr##.s_likebox2 > div
+www.cine5.com.tr##.s_likebox2
+www.cine5.com.tr##.s_likebox
+www.cnbce.com###topNews > .socialBox
+||img-cdn.cnbce.com/assets/img/gfx/cnbce_haber2.jpg
+oku.net###xcsn > * > .shareBttn
+www.trt.net.tr###fbLikeSendtwitter_menu
+www.trthaber.com##body > div:nth-of-type(4) > .cf.ana.wrapper > .cf.hdr > .hdrSag > .hdrSosyal
+www.canlidizi.tv###pageskin > .bannergroup-pageskin > .banneritem
+www.canlidizi.tv###footer > .clearfix.footer > .footerleft
