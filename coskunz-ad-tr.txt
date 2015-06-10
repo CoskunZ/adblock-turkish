@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: R9G0yGZMq3jNSttQIxamkg
+! Checksum: O00ouzUjGX+a0+HBoWHC3g
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -465,3 +465,11 @@ www.trt.net.tr###fbLikeSendtwitter_menu
 www.trthaber.com##body > div:nth-of-type(4) > .cf.ana.wrapper > .cf.hdr > .hdrSag > .hdrSosyal
 www.canlidizi.tv###pageskin > .bannergroup-pageskin > .banneritem
 www.canlidizi.tv###footer > .clearfix.footer > .footerleft
+mynet.com###rightBottomNews > .clr.tumbImages
+mynet.com##.containerZ1 > .clr.homeUcluBlokCntr > .detailRightCntr > .scroller2.scroller.rightSection > .clr.moduletable_homesocial
+fotoanaliz.hurriyet.com.tr###form1 > .clr.galContainer > .clr.galDetailWrapper > .gDescCont > .gDescDetails > .galDesc > .galeriPaylasButtons
+fotoanaliz.hurriyet.com.tr###form1 > .clr.galContainer > .clr.galDetailWrapper > .gDescCont > .gDescDetails > .selectionShareable.galDesc > .galeriPaylasButtons
+www.hurriyet.com.tr##header > .clr.pageWrapper.topMenu > .socialBarSwitch > .tcatch.tooltipToggleBtn[href="javascript:;"]
+www.hurriyet.com.tr##header > .clr.pageWrapper.topMenu > .socialBarSwitch > .tcatch.userTooltip
+mynet.com###rightBottomNews > .clr.tumbImages
+mynet.com##.containerZ1 > .clr.homeUcluBlokCntr > .detailRightCntr > .scroller2.scroller.rightSection > .clr.moduletable_homesocial
