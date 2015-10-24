@@ -11,7 +11,7 @@ Hedefler
 * Paylaş, beğen, yazdır, büyüt gibi butonlar
 * Sayfalarda kötü gözüken diğer içerikler
 
-Engellenmesini istediğiniz diğer içerikleri [buraya](https://github.com/CoskunZ/adblock-turkish/issues) yazabilirsiniz.
+Engellenmesini istediğiniz ya da fazla engellendiğini düşündüğünüz içeriği ve listedeki diğer tüm sorunları [buraya](https://github.com/CoskunZ/adblock-turkish/issues) yazabilirsiniz.
 
 
 Nasıl
