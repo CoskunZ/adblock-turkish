@@ -11,13 +11,19 @@ Hedefler
 * Paylaş, beğen, yazdır, büyüt gibi butonlar
 * Sayfalarda kötü gözüken diğer içerikler
 
+
 Nasıl
 ----------
 
 Kullanmak için aşağıdaki adresi süzgeç aboneliklerine ekleyin.
 
-https://raw.githubusercontent.com/CoskunZ/adblock-turkish/master/coskunz-ad-tr.txt
+* https://raw.githubusercontent.com/CoskunZ/adblock-turkish/master/coskunz-ad-tr.txt
 
 
+uBlock Origin ile kullanılması önerilir.
 
-[Adblock Edge](https://addons.mozilla.org/en-US/firefox/addon/adblock-edge/) ile kullanılması önerilir.
+[Firefox için uBlock Origin](https://addons.mozilla.org/en-us/firefox/addon/ublock-origin/)
+[Chrome İçin uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+
+uBlock Origin > Seçenekler > 3. taraf süzgeçler
+En alttaki metin kutusuna yukardaki adresi ekleyin ve uygula kutusuna tıklayın.
