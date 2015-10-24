@@ -23,7 +23,9 @@ Kullanmak için aşağıdaki adresi süzgeç aboneliklerine ekleyin.
 uBlock Origin ile kullanılması önerilir.
 
 [Firefox için uBlock Origin](https://addons.mozilla.org/en-us/firefox/addon/ublock-origin/)
+
 [Chrome İçin uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
 uBlock Origin > Seçenekler > 3. taraf süzgeçler
+
 En alttaki metin kutusuna yukardaki adresi ekleyin ve uygula kutusuna tıklayın.
