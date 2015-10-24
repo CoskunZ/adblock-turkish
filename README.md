@@ -22,6 +22,7 @@ Kullanmak için aşağıdaki adresi süzgeç aboneliklerine ekleyin.
 
 uBlock Origin ile kullanılması önerilir.
 
+<img  src="https://github.com/CoskunZ/adblock-turkish/raw/master/logos/firefox.png">
 [Firefox için uBlock Origin](https://addons.mozilla.org/en-us/firefox/addon/ublock-origin/)
 
 [Chrome İçin uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
