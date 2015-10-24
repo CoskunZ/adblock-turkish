@@ -25,10 +25,12 @@ Kullanmak için aşağıdaki adresi süzgeç aboneliklerine ekleyin.
 uBlock Origin ile kullanılması önerilir.
 
 
+Tarayıcılar
+----------
+
 [Firefox için uBlock Origin](https://addons.mozilla.org/en-us/firefox/addon/ublock-origin/)
 
 [Chrome için uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
-uBlock Origin > Seçenekler > 3. taraf süzgeçler
+uBlock Origin > Seçenekler > 3. taraf süzgeçler'e girin, en alttaki metin kutusuna yukardaki adresi ekleyin ve uygula kutusuna tıklayın. 
 
-En alttaki metin kutusuna yukardaki adresi ekleyin ve uygula kutusuna tıklayın.
