@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: XlD8mOldrSqk9YgIsiRerw
+! Checksum: aOIX1mYY4qFQoyAnBfr6VA
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -475,3 +475,20 @@ mynet.com###rightBottomNews > .clr.tumbImages
 mynet.com##.containerZ1 > .clr.homeUcluBlokCntr > .detailRightCntr > .scroller2.scroller.rightSection > .clr.moduletable_homesocial
 sozcu.com.tr##[data-sitename="ilan"] > *
 hurriyet.com.tr##.advertorial-ribbon + * *
+sozcu.com.tr##.sm-banner._flex._aic
+sozcu.com.tr##.item-after
+sozcu.com.tr##.weather-bar
+m.hurriyet.com.tr##.feed-share-buttons
+m.hurriyet.com.tr##.share
+sozcu.com.tr##.row.no-gutter
+sozcu.com.tr##.share-all.show
+sozcu.com.tr##.change-text-size > *
+sozcu.com.tr##.next-news
+m.gercekgundem.com##.line.ads
+m.mynet.com##.fix-share
+m.milliyet.com.tr###smartbanner
+odatv.com##.one-half
+odatv.com##DIV[style="height:34px; width:60px; float:left;"]
+odatv.com##DIV[style="height:34px; width:40px; float:right;"]
+sahibinden.com##.smart-app-banner.visible
+
