@@ -507,5 +507,4 @@ www.sozcu.com.tr###stickynavbar > ._jcsb._aic._flex.news-content-meta-inner > ._
 ||cdnvideo.sozcu.com.tr/scripts/library/videojs.comscore.js$script,domain=player.sozcu.com.tr
 ||cdnvideo.sozcu.com.tr/scripts/library/videojs.watermark.js$script,domain=player.sozcu.com.tr
 ||cdnvideo.sozcu.com.tr/scripts/library/videojs.ga.js$script,domain=player.sozcu.com.tr
-||s.mynet.com/global/mynet-global.js$script,domain=www.mynet.com
-
+www.mynet.com http://s.mynet.com/global/mynet-global.js script block
