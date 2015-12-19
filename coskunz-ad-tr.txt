@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: /ZnW4XVn94vN9ODMFAE9EQ
+! Checksum: JmkhDb+AWAhVylXhxZAtDw
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -507,5 +507,5 @@ www.sozcu.com.tr###stickynavbar > ._jcsb._aic._flex.news-content-meta-inner > ._
 ||cdnvideo.sozcu.com.tr/scripts/library/videojs.comscore.js$script,domain=player.sozcu.com.tr
 ||cdnvideo.sozcu.com.tr/scripts/library/videojs.watermark.js$script,domain=player.sozcu.com.tr
 ||cdnvideo.sozcu.com.tr/scripts/library/videojs.ga.js$script,domain=player.sozcu.com.tr
-www.mynet.com http://s.mynet.com/global/mynet-global.js script block
+||s.mynet.com/global/mynet-global.js$script,domain=www.mynet.com
 
