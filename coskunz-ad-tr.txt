@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: azQA4Uolrld1LFzM7ymgWA
+! Checksum: Tu266OwZlHeFHNMLabeslg
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -517,4 +517,11 @@ www.hurriyet.com.tr###hdnlabsAjax > .plusBigImageRotator.clr.hurBox > .bx-wrappe
 www.hurriyet.com.tr###hdnlabsAjax > .plusBigImageRotator.clr.hurBox > .bx-wrapper > .bx-viewport > .plusFullSlider > li:nth-of-type(2) > .size1.sponsorluIcerik
 www.hurriyet.com.tr###hdnlabsAjax > .plusBigImageRotator.clr.hurBox > .bx-wrapper > .bx-viewport > .plusFullSlider > li:nth-of-type(3) > .size1.sponsorluIcerik
 www.hurriyet.com.tr##.news-detail.container > .page-wrapper > .row:nth-of-type(3) > .col-md-12 > .right-block-300 > .ad-300x150.medyanet-ads.news-box.row
-
+www.sozcu.com.tr###sz_manset_alti > * > .cas-inner > .news-box > a[href*="http://www.sozcu.com.tr/2016/ilan-2/"]
+www.youtube.com###movie_player > .ytp-cards-button.ytp-button
+www.sozcu.com.tr##.full-container > .container-wrapper > .container > .container-inner > .astrology.section
+www.sozcu.com.tr##.get-no-ads
+www.hurriyet.com.tr##.main-container > .container > .main-content > .row:nth-of-type(9) > .scroll-view-port.sponsored-content.col-lg-4.col-md-4.col-sm-4.col-xs-4
+www.sozcu.com.tr###printable > .detail-content-inner > .news-wrapper > .news-body > .news-content-share
+superuser.com###hero-content
+physics.stackexchange.com###hero-content
