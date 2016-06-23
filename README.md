@@ -34,3 +34,9 @@ Tarayıcılar
 
 uBlock Origin > Seçenekler > 3. taraf süzgeçler'e girin, en alttaki metin kutusuna yukardaki adresi ekleyin ve uygula kutusuna tıklayın. 
 
+Öneriler
+----------
+
+Türkçe sitelerde reklam engellemek için aşağıdakileri de öneririm:
+
+[Adguard Türkçe listesi](https://adguard.com/en/filter-rules.html?id=13)
