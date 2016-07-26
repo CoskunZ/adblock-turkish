@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 2+kmcwAI91mU+8PSa/mK4Q
+! Checksum: OeweaIYMeug77saSkyjIQw
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -533,5 +533,8 @@ www.sozcu.com.tr##._jce._flex._next-article
 www.hurriyet.com.tr##.main-container > .container > .main-content > .row:nth-of-type(9) > .col-lg-8.col-md-8.col-sm-8.col-xs-8 > .white-box.slider-wrapper.sponsor-slider.slider-with-description2
 ###mixedWidget > .boomads.sponsored-widget.margin-bottom-standart.white-box.news-wrapper:nth-of-type(11)
 www.mynet.com###adoMyHome > .clr.wrapper > .page-shadow.section > .sectionWrap > .sectionRight > .new-social-media
-
+www.cnnturk.com###detail-item-0 > .section-container.container > .sticky-container.row > .col-md-8 > .z-10.flex-start.hidden-xs.with-title.flex-start.detail-tools
+www.cnnturk.com###detail-item-0 > .section-container.container > .sticky-container.row > .col-md-8 > .flex-xs-order > .flex-start.detail-tools
+www.cnnturk.com###detail-item-0 > .section-container.container > .sticky-container.row > .ng-isolate-scope.sticky-item.hidden-xs.hidden-sm.col-md-4 > .hidden-sm.hidden-xs.m-b.banner-section
+||www.cnnturk.com/action/ibanner$subdocument
 
