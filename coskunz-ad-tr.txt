@@ -540,3 +540,13 @@ www.cnnturk.com###detail-item-0 > .section-container.container > .sticky-contain
 www.sozcu.com.tr###sz_manset_alti > .case-33:nth-of-type(6) > .cas-inner > .news-box > a[href^="http://bit.ly/"]
 @@||sozcu.com.tr/*/assets/js/ads.js
 ||i.sozcu.com.tr/segmentify/sgm_sozcu.debug.js$script,domain=www.sozcu.com.tr
+www.hepsiburada.com##.discount-badge.highlight.badge
+www.hepsiburada.com##.product-old-price.old.price
+www.sozcu.com.tr###sz_manset_alti > * > * > * > a[href^="http://bit.ly/"]
+odatv.com##a[href^="http://gdetr.hit.gemius.pl/"]
+odatv.com##a[href^="https://www.odakitap.com/"]
+||www.sahibinden.com/data/walkme$script,domain=www.sahibinden.com
+www.milliyet.com.tr###_topalt > .nisan23 > img[src="http://icube.milliyet.com.tr/d/i/_SubV2/milliyetlider.gif"]
+www.hurriyet.com.tr##.white-box.slider-wrapper.sponsor-slider.slider-with-description2
+www.hurriyet.com.tr##.sponsored-news.custom-margin.white-box.news-wrapper:nth-of-type(1)
+www.ntv.com.tr##.content_wrapper > header > .wrapper > h1 > .mitsubishi.boot.weather > .mitsubishi
