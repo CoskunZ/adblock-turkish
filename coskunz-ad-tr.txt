@@ -550,3 +550,4 @@ www.milliyet.com.tr###_topalt > .nisan23 > img[src="http://icube.milliyet.com.tr
 www.hurriyet.com.tr##.white-box.slider-wrapper.sponsor-slider.slider-with-description2
 www.hurriyet.com.tr##.sponsored-news.custom-margin.white-box.news-wrapper:nth-of-type(1)
 www.ntv.com.tr##.content_wrapper > header > .wrapper > h1 > .mitsubishi.boot.weather > .mitsubishi
+www.hepsiburada.com###product-discount-rate
