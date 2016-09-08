@@ -560,4 +560,4 @@ www.gittigidiyor.com###gf-desktop > .description-container > .product-old-price
 urun.n11.com###contentProDetail > .container > .proDetailArea > .proDetail > .paymentDetail > .price > .discountL.discount
 urun.n11.com###contentProDetail > .container > .proDetailArea > .proDetail > .paymentDetail > .price > .priceDetail > .oldPrice
 www.n11.com##.oldPrice
-
+www.sozcu.com.tr##a[href^="http://bit.ly/"]
