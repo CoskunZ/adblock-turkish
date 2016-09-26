@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: OaYUQfQNXgk5zswzyWxoqQ
+! Checksum: YpfdOom2MQrxs4XurvvuZg
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -563,4 +563,14 @@ www.n11.com##.oldPrice
 www.sozcu.com.tr##a[href^="http://bit.ly/"]
 www.sozcu.com.tr##a[href^="http://www.sozcu.com.tr/2016/kesfet/"]
 www.sahibinden.com###searchResultsTable > tbody > .searchResultsPromoBold.searchResultsPromoHighlight.even.searchResultsItem:nth-of-type(1)
+||i.sozcu.com.tr/dfp/*$image,domain=www.sozcu.com.tr
+www.sahibinden.com##.dailyOpportunityDiscount
+www.sahibinden.com##.daily-opportunity-old-price
+www.sahibinden.com##.dailyOpportunityPriceTag
+www.sahibinden.com##.dailyOpportunityPrice
+www.sahibinden.com##.opProductOldPrice
+www.sahibinden.com###container > .clearfix.top-menu-container > .top-menu-right > .home.search-menu > .tutorial
+www.sahibinden.com##a[href="/doping-tanitim/#doping-4"]
+www.sahibinden.com###searchResultsTable > tbody > .searchResultsPromoToplist
+www.sahibinden.com##a[href="/doping-tanitim/#doping-3"]
 
