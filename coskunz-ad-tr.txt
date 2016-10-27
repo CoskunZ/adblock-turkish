@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 8KIbK05ojli9lkWQ3oOT6w
+! Checksum: xOSOo1hFu4KG2eSYjj9CUg
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -578,3 +578,4 @@ www.sahibinden.com##a[href="/doping-tanitim/#doping-3"]
 mobil.hurriyet.com.tr##.main-container > .container > .row:nth-of-type(10) > .sponsored-news-recommendation-2.news-recommendation
 ||onedio.com$domain=www.sozcu.com.tr
 @@||cdn.vidyomani.com/c/p/showads.js$script,domain=cdn00.vidyomani.com
+##img[src="https://icon.donanimhaber.com/gfbuton.png"]
