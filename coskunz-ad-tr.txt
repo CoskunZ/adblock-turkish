@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: JSFu8lCVOruZyU7byJG9kw
+! Checksum: HO1HxoZA7Y5YPM7AfRMC5A
 ! Title: CoskunZ'nin listesi
 ! Homepage: https://github.com/CoskunZ/adblock-turkish
 ! Licence: http://www.gnu.org/copyleft/gpl.html
@@ -583,3 +583,8 @@ odatv.com###sliderPager > li:nth-of-type(7) > a[href^="http://www.primetrade.com
 www.sozcu.com.tr##a[href^="http://www.sozcu.com.tr/2017/kesfet/"]
 www.hurriyet.com.tr###CookieMsgBox
 ||medya.ilan.gov.tr^
+www.hurriyet.com.tr##.scroll-view-port.sponsored-content
+www.haberturk.com##.photo-news-list-advertisement
+www.haberturk.com##.photo-news-list-social-share
+www.donanimhaber.com##a[href^="https://ad.donanimhaber.com/"]
+
