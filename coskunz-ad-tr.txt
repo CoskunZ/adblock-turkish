@@ -589,4 +589,5 @@ www.sozcu.com.tr##a[href^="http://www.sozcu.com.tr/2017/ilan"]
 www.sozcu.com.tr##a[href^="http://www.sozcu.com.tr/hayatim/alisveris/"]
 www.hurriyet.com.tr##a[href^="http://www.hurriyet.com.tr/Vitrin/"]
 www.milliyet.com.tr###pushNotification
+www.gercekgundem.com###header > div:nth-of-type(2)
 
