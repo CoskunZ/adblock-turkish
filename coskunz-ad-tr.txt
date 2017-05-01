@@ -596,4 +596,4 @@ www.gercekgundem.com##.solkulereklam
 www.gercekgundem.com##.sagkulereklam
 www.gercekgundem.com##.sagkulereklamalt
 www.gercekgundem.com##.solkulereklamalt
-
+www.gercekgundem.com##.alerttt
