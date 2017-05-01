@@ -592,4 +592,8 @@ www.milliyet.com.tr###pushNotification
 www.gercekgundem.com###header > div:nth-of-type(2)
 www.sozcu.com.tr##a[href^="http://www.sozcu.com.tr/2017/gundem/turkiyenin-acik-ara-en-cok-haber-okunan-sitesi-sozcu-"]
 www.sozcu.com.tr##.outof-news-body
+www.gercekgundem.com##.solkulereklam
+www.gercekgundem.com##.sagkulereklam
+www.gercekgundem.com##.sagkulereklamalt
+www.gercekgundem.com##.solkulereklamalt
 
