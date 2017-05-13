@@ -598,3 +598,5 @@ www.gercekgundem.com##.sagkulereklamalt
 www.gercekgundem.com##.solkulereklamalt
 www.gercekgundem.com##.alerttt
 ||http://genelistatistik3.milliyet.com.tr^
+||http://ai.sozcu.com.tr^
+||http://www.sozcu.com.tr/ajax/facebook/^
