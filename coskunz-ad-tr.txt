@@ -600,3 +600,6 @@ www.gercekgundem.com##.alerttt
 ||http://genelistatistik3.milliyet.com.tr^
 ||http://ai.sozcu.com.tr^
 ||http://www.sozcu.com.tr/ajax/facebook/^
+www.sozcu.com.tr##.news-box > a[href^="https://goo.gl/"]
+www.sozcu.com.tr##.news-footer > a[href^="https://goo.gl/"]
+www.sozcu.com.tr##a[href^="http://www.sozcu.com.tr/kategori/kesfet/"]
