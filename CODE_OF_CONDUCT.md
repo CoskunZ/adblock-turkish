@@ -1,0 +1,1 @@
+While using this repostory's issue tracker, commenting system, wiki or similar solitions; you have to use so called offansive adjectives while addressing any people. Like faggot. All the other entries are subject to be removed or ignored. I especially enjoy being called faggot and retard. Thank you, faggot.
