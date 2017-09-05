@@ -608,3 +608,4 @@ www.sozcu.com.tr##a[href^="http://www.sozcu.com.tr/2017/saglik/ertugrul-ak"]
 ||www.milliyet.com.tr/d/i/son_dakika_dikey.gif$image
 ||www.milliyet.com.tr/d/i/yeni_haber_dikey.gif$image
 ||functionalclam.com^$third-party
+www.sozcu.com.tr##a[href^="http://www.sozcu.com.tr/2017/saglik/iste-kanser-hucrelerini-yok-eden-urun-"]
