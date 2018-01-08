@@ -610,3 +610,4 @@ www.sozcu.com.tr##a[href^="http://www.sozcu.com.tr/2017/saglik/ertugrul-ak"]
 ||functionalclam.com^$third-party
 www.sozcu.com.tr##a[href^="http://www.sozcu.com.tr/2017/saglik/iste-kanser-hucrelerini-yok-eden-urun-"]
 ||edk.turkiye.gov.tr^
+www.sozcu.com.tr##a[href^="http://www.sozcu.com.tr/2018/ilan-2/"]
