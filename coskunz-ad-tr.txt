@@ -613,3 +613,4 @@ www.sozcu.com.tr##a[href^="http://www.sozcu.com.tr/2017/saglik/iste-kanser-hucre
 www.sozcu.com.tr##a[href^="http://www.sozcu.com.tr/2018/ilan-2/"]
 urun.n11.com##.discountL.discount
 urun.n11.com##.oldPrice
+www.n11.com##.discountS.discount
