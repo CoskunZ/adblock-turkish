@@ -610,7 +610,8 @@ www.sozcu.com.tr##a[href^="http://www.sozcu.com.tr/2017/saglik/ertugrul-ak"]
 ||functionalclam.com^$third-party
 www.sozcu.com.tr##a[href*="http://www.sozcu.com.tr/2017/saglik/iste-kanser-hucrelerini-yok-eden-urun-"]
 ||edk.turkiye.gov.tr^
-www.sozcu.com.tr##a[href*="http://www.sozcu.com.tr/2018/ilan-2/"]
+www.sozcu.com.tr##a[href*="www.sozcu.com.tr/2018/ilan-2/"]
 urun.n11.com##.discountL.discount
 urun.n11.com##.oldPrice
 www.n11.com##.discountS.discount
+www.sozcu.com.tr##a[href*="www.sozcu.com.tr/kategori/ilan-2/"]
