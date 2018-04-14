@@ -617,3 +617,4 @@ www.n11.com##.discountS.discount
 www.sozcu.com.tr##a[href*="www.sozcu.com.tr/kategori/ilan-2/"]
 www.milliyet.com.tr###smiley
 www.milliyet.com.tr##a[href*="//icerik.milliyet.com.tr/native/"]
+www.sozcu.com.tr##.using-cookie
