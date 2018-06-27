@@ -619,3 +619,4 @@ www.milliyet.com.tr###smiley
 www.milliyet.com.tr##a[href*="//icerik.milliyet.com.tr/native/"]
 www.sozcu.com.tr##.using-cookie
 www.sozcu.com.tr##.dfp-container.supersize-container
+odatv.com##[href^="redirect.php"]
